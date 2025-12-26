@@ -1,0 +1,12 @@
+REPO_TAGLINE: Integrals • Series • Solving techniques and Applications
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/SMA0332-Calculo-II
+
+BG_1: "#101826"
+BG_2: "#2A1E14"
+TEXT_MAIN: "#FFF7ED"
+TEXT_MUTED: "#E7D6C2"
+ACCENT: "#FB923C"
+CARD_RADIUS: "18"
